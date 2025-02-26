@@ -1,0 +1,7 @@
+{
+  "name": "@lalalsresearch/gpt-proj-shared",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
+  "type": "module"
+}
